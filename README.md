@@ -1,1 +1,1 @@
-# Laborator2
+Aplicatie pentru laborator.
